@@ -40,5 +40,5 @@ A 2D game blending platforming and space shooter mechanics. Includes a Firebase-
 
 ## 📫 Contact
 
-- GitHub: [github.com/ruzdev]([https://github.com/ruzdev](https://github.com/DahRealRuz))
+- GitHub: [github.com/DahRealRuz]([https://github.com/ruzdev](https://github.com/DahRealRuz))
 - Email: rosellerrene.santos@gmail.com
